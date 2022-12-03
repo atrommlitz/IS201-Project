@@ -1,0 +1,45 @@
+ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: navy;
+    font-weight: bold;
+
+}
+
+a{
+    color: darkgreen; 
+    align-items: center;
+    align-content: center;
+    
+}
+
+body{
+    background-color: lightgrey;
+}
+
+h3{
+    font-weight:800;
+    color: darkslateblue;
+}
+ul{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div1{ 
+    position: absolute;
+    right: 20px;
+
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    align-items: center;
+}
+.div3{
+    border: solid;
+    display: flex;
+    justify-content: center;
+    max-width: fit-content;
+    margin: 0px auto;
+}
+
